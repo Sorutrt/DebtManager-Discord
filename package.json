@@ -7,7 +7,7 @@
 	"test": "ts-node src/main.ts",
 	"start": "node build/main.js",
 	"compile": "tsc -p ."
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
