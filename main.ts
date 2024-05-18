@@ -1,4 +1,4 @@
-import { createBot, Intents, startBot } from "./deps.ts"
+import { createBot, Intents, startBot, CreateSlashApplicationCommand, InteractionResponseTypes } from "./deps.ts"
 import { Secret } from "./secret.ts"
 
 const bot = createBot({
